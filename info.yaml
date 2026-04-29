@@ -31,7 +31,7 @@ pinout:
   ui[4]: ""
   ui[5]: ""
   ui[6]: "VGA Mode bit 0"
-  ui[7]: ""
+  ui[7]: "VGA Mode bit 1"
 
   # Outputs
   uo[0]: "R1"
